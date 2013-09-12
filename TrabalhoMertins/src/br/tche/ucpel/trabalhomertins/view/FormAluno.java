@@ -209,6 +209,7 @@ public class FormAluno extends javax.swing.JInternalFrame {
 
     private void jButtonLimparActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonLimparActionPerformed
         System.out.println("Teste ADCDE");
+        System.out.println("teste");
         limpar();
     }//GEN-LAST:event_jButtonLimparActionPerformed
 
